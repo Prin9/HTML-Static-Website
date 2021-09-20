@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#banner-image {
+	 padding-top: 75px;      padding-bottom: 50px;  text-align: center;     color: #f8f8f8;      background: url("shopping.png") no-repeat center center;     background-size: cover; 
+}
+
+#banner_content {
+	position:relative;      padding-top: 6%;     padding-bottom: 6%;    margin-top: 12%;    margin-bottom: 12%;    background-color: rgba(0, 0, 0, 0.7);    
+}
+
+footer {
+	 padding: 10px 0;     background-color: #101010;      color:#9d9d9d;     bottom: 0;     width: 100%; 
+ 
+ position: fixed; left:0;
+}
+
+.panel-space {
+	margin-top: 100px; margin-bottom: 200px;
+}
+
+.panel-space-l {
+	margin-left: 20%;
+}
+
+
+
+.no-ovelap {
+	display: block;
+}
+
+
+
+.jumbotron {
+	margin-top: 80px;
+}
+
+.navbar {
+	background-color: rgba(240,164,183,1.00) 
+}
